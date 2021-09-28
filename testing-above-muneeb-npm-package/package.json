@@ -1,0 +1,14 @@
+{
+  "name": "testing-above-muneeb-npm-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@muneebwaseem78/muneeb-npm-package": "^1.0.0"
+  }
+}
