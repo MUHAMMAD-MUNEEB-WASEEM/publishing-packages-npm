@@ -37,6 +37,10 @@ Installing packages within working environment only
 * Example: 
 
   @muneebwaseem78/muneeb-npm-package@1.0.0
+  
+* Tutorial followed:
+
+  https://docs.npmjs.com/creating-and-publishing-scoped-public-packages
 
 ## Global Package (CLI):
 It is intalled globally in your system and can be access from anywhere within the system and RUN using CLI
@@ -83,4 +87,6 @@ node bin/index.js a b   (it will return [‘a’, ‘b’])
 
   npm i muneeb-package-global@1.0.1 –g
 
+* Tutorial Followed:
 
+  https://medium.com/jspoint/creating-cli-executable-global-npm-module-5ef734febe32
